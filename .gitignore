@@ -11,3 +11,8 @@ byob/modules/clients/
 .coveralls.yaml
 .coverage
 .coveragerc
+*.py
+*.py
+*.py
+*.py
+byob/core/stagers.py
